@@ -1,10 +1,7 @@
 <h2>About the project</h2>
  Product details page UI
-  <p></p>
-
-![](https://github.com/Krishna11118/quiz-app/blob/main/example/detailPageSS.png)
-
-👉 Live Demo: <a href='https://krishnaaportfolio.netlify.app/'>Live Demo</a>
+  
+👉 Live Demo: <a href='https://product-details-mu.vercel.app/'>Live Demo</a>
 
 List of languages that were used to built this project .
 
