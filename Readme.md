@@ -1,5 +1,6 @@
 <h2>About the project</h2>
  Product details page UI
+ <br>
   
 👉 Live Demo: <a href='https://product-details-mu.vercel.app/'>Live Demo</a>
 
